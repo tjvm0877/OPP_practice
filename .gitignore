@@ -1,3 +1,7 @@
-idea/
-.iml
+.idea/
 .DS_Store
+*.iml
+Swift_Algorithm.xcodeproj/
+Kotlin_Java_Algorithm/out/
+
+OPP/out/
